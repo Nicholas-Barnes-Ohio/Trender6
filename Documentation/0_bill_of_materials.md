@@ -60,11 +60,9 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1rIzYha_TP3Gi2qXVKMOwO2
 
 ## Drive Modules
 
-- **4 NEMA14 Stepper Motors (V0.1 Style) - Options:**
-  - LDO-35STH52-1504AH(VRN)
-  - OMC 14HS20-1504S
-  - LDO 35STH48-1684AH(VRN) 
-  - (Ideally longer wiring harnesses than V0.1 to reach the bottom of the printer)
+- **2 NEMA17 Stepper Motors - Options:**
+  - Stock Ender 6 Motors (Not preferred due to press fit shafts, and 1 motor has a short shaft)
+  - Voron Team Recommended motors.
 - 4 M5x30 BHCS
 - **4 M5x16 BHCS**
 - 14 M5x10 BHCS
@@ -73,7 +71,7 @@ Frame Calculator: https://docs.google.com/spreadsheets/d/1rIzYha_TP3Gi2qXVKMOwO2
 - 12 F695 Bearings
 - 8 M3x30 SHCS
 - **6 M3x20 SHCS**
-- **4 2GT 20T Pulleys (5mm Bore)**
+- **2 2GT 20T Pulleys (5mm Bore)**
 - **2 Omron Microswitches**
 - **4 M2x10 Self Tapping Screws**
 
