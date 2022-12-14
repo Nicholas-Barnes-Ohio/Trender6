@@ -1,6 +1,6 @@
 # Trender6
 
-This repository is in EXTREME draft mode.   The level of detail developed will dependent on community interest.
+This repository is in EXTREME draft mode and I am new to Github, so nothing is mistakes should be exptected. The level of detail developed will dependent on community interest.
 
 Mash-up of the Ender 6 and Voron Trident.   Bringing the Trident Grantry and Stealthburner toolhead to the Ender 6's enclosed frame.  There are other projects which have brought Voron elements to the Ender 6 frame.  This version allows the design to be fully enclosed.    My version retained the stock z-axis and utilized as many stock Voron Trident parts as practical.   The main drawback is a loss of z travel.  I valued enclosablty over z-travel.
 
