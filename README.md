@@ -12,3 +12,5 @@ The current iteration includes a BL-Touch which reduces the x-travel.  Current t
 Stock Ender 6 build volume. 250 x 250 x 400 mm.
 
 ![Overall CAD Image](https://github.com/Nicholas-Barnes-Ohio/Trender6/blob/main/Images/Trender6_CAD_Overview.png)
+
+![Overall CAD Image](https://github.com/Nicholas-Barnes-Ohio/Trender6/blob/main/Images/IMG_20221212_230007.jpg)
